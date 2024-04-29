@@ -1,0 +1,56 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "skills": [{
+          "skill": "HTML",
+          "rating": "4"
+        },
+        {
+          "skill": "CSS",
+          "rating": "5"
+        },{
+          "skill": "React",
+          "rating":"3"
+        }
+      ],
+        "avatar": "https://source.unsplash.com/200x200/?avatar"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "skills": [{
+          "skill": "Angular",
+          "rating": "4"
+        },
+        {
+          "skill": "Vue",
+          "rating": "3"
+        },{
+          "skill": "React",
+          "rating": "5"
+        }],
+        "avatar": "https://source.unsplash.com/200x200/?avatar"
+      },
+      {
+        "id": 3,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "skills": [{
+          "skill": "HTML",
+          "rating": "5"
+        },
+        {
+          "skill": "Typescript",
+          "rating": "2"
+        },{
+          "skill": "React",
+          "rating": "3"
+        }],
+        "avatar": "https://source.unsplash.com/200x200/?avatar"
+      }
+    ]
+  }
